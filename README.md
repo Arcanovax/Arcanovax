@@ -17,10 +17,21 @@ I speak:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,bash,html,css,git,linux,vscode&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,python,bash,html,css,git,linux,rust,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
 ---
+### 42 Projets
+
+<table>
+  <tr>
+    <td><strong>RAG</strong></td>
+    <td>Retrieval-Augmented Generation (123% ⭐⭐⭐)</td>
+    <td><a href="https://github.com/Arcanovax/RAG">See the Project</a></td>
+  </tr>
+</table>
+
+<hr>
 
 ![Visitors](https://komarev.com/ghpvc/?username=Arcanovax&color=red&style=for-the-badge)
 
