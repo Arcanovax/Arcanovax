@@ -15,11 +15,11 @@ I speak:
 
 ## >> Languages
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,bash,html,css,git,linux,vscode&theme=dark" alt="My Skills" />
+  </a>
+</p>
 ---
 
 ![Visitors](https://komarev.com/ghpvc/?username=Arcanovax&color=red&style=for-the-badge)
