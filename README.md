@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c90000,700:00000&height=250&section=header&text=Arcanovax&fontSize=80&fontColor=0&animation=fadeIn&fontAlignY=35&desc=%2042 %Student" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c90000,100:000000&height=250&section=header&text=Arcanovax&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=%2042 %Student" />
 </p>
 
 ## >>  About Me
