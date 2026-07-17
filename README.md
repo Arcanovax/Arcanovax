@@ -49,7 +49,7 @@ I speak:
   </tr>
   <tr>
     <td><strong>push_swap</strong></td>
-    <td>125% ⭐</td>
+    <td>121% ⭐</td>
     <td><a href="https://github.com/Arcanovax/push_swap">See the Project</a></td>
   </tr>
 </table>
