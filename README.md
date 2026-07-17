@@ -26,3 +26,6 @@ I speak:
 
 ![Visitors](https://komarev.com/ghpvc/?username=Arcanovax&color=red&style=for-the-badge)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c90000,700:00000&height=150&section=footer" />
+</p>
