@@ -28,6 +28,11 @@ I speak:
 
 <table>
   <tr>
+    <td><strong>TAP</strong></td>
+    <td>100% ⭐</td>
+    <td><a href="https://github.com/Arcanovax/TAP">See the Project</a></td>
+  </tr>
+  <tr>
     <td><strong>RAG</strong></td>
     <td>123% ⭐⭐⭐</td>
     <td><a href="https://github.com/Arcanovax/RAG">See the Project</a></td>
