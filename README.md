@@ -34,7 +34,7 @@ I speak:
   </tr>
   <tr>
     <td><strong>RAG</strong></td>
-    <td>123% ⭐⭐⭐</td>
+    <td>125% ⭐⭐⭐</td>
     <td><a href="https://github.com/Arcanovax/RAG">See the Project</a></td>
   </tr>
   <tr>
