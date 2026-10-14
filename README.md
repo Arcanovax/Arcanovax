@@ -1,5 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c90000,100:000000&height=250&section=header&text=Arcanovax&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%2042%20Student" />
 
+<div align="center">
+
+<img src="./assets/activity.svg" width="95%" alt="GitHub contribution activity">
+
+<img src="./assets/languages.svg" width="95%" alt="Language distribution">
+
+<img src="./assets/streak.svg" width="95%" alt="Contribution streak">
+
+</div>
+
 ## >>  About Me
 I am a student developer at École 42 Lyon. I've been passionate about computer science since I was a child; I started out working on no-code projects using blocks, and then became interested in Python and C. 
 
