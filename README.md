@@ -38,6 +38,11 @@ I speak:
 
 <table>
   <tr>
+    <td><strong>Agent Smith</strong></td>
+    <td>100% ⭐⭐⭐</td>
+    <td><a href="https://github.com/Arcanovax/agent_smith">See the Project</a></td>
+  </tr>
+  <tr>
     <td><strong>TAP</strong></td>
     <td>100% ⭐</td>
     <td><a href="https://github.com/Arcanovax/TAP">See the Project</a></td>
