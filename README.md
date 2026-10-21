@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c90000,100:000000&height=250&section=header&text=Arcanovax&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%2042%20Student" />
 
 <div align="center">
 
@@ -79,11 +78,4 @@ I speak:
   </tr>
 </table>
 
-<br>
-<br>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c90000,700:00000&height=150&section=footer" />
-</p>
 
